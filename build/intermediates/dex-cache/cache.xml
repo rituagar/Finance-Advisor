@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="29e4e634375ab2ed25f8db5387b564c78980422a">
+        <dex dex="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.2.4_2a467d39c0547eb95534fcc8771d3a4f2cb0b67c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_582b24fe3b31c8cd573172a76f7059beba0d2d8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43df709c95f6b0501b3adbc7da992b6a69a03214">
+        <dex dex="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.2.4_3738e99630d9883637413db89b048f750ff42a8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa6a6e385297077a344e0bb95ab6c22f22119261">
+        <dex dex="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-10.2.4_fa1b7f02ce43b16b25d40fb9a078e775b931d5c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_90f32d23c1f7804eda08a81effc28642beef0faf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.4_c217a340510bb795cf3a9a2c961a2b294080345a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.4_6ee44226dffbc56654a121ec59ba17eca3ce6115.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_7ed254fae1ce3ec664c06686213244df4f685ace.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_b6920a8a0e87a499a87178460d44c0fc7d909f41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.1_1ca22ec6b74f5b20c6d4ca7de44a8e9797c979b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ritu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_41e7058927193a463bb1264b0d33c7633636bbf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.1.1_b07d213a0c8e367e328c6e0b8426391ceccbb60d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_22778c83fa5cf75af3b2ec45713b44d0297511b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="54933c89f90a872aa342004e82b23e776fe12736">
+        <dex dex="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.2.4_b73bc90b3bedafa07c2fff9752c62125248d8e8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="80ecaefc1035fde747999e4c20e18d207363efa2">
+        <dex dex="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-10.2.4_8f43a61e71b12d8e562912c80c587d021936df52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_2b13fb9f147d0f93b8aea71bcc6c4a55d36e3d7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="143e5647b772c08c9f0d807b24bbc0b05ff6c7d2">
+        <dex dex="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.2.4_4aeb29fbfe9c73c80f84c837f2b9523a2f1ade0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_98b0c854ada58dd4b5827fc9cbbd235527140f98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_61f1157bcb62443d8c590e809e641088b949ca63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ritu\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\pre-dexed\debug\glide-3.7.0_2aec21b4d8882645c258a2a7df7c12528dfd966a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_38479b7a901dce7f96f7d59d08d652094869838b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_f65390c295b74f5041e8ce1258ca65c7caa26826.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_e58b0871d2cf044591d88754de95706e4313cc32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.4_d2b086a6430a721123cfef98f4621bf56f871e40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.2.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="688809418e4c2b5014a028c02708d6aeaba466ff">
+        <dex dex="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-10.2.4_b084b92107a7dab12aed9da3069dc22aeae941c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\exploded-aar\com.amulyakhare\com.amulyakhare.textdrawable\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="C:\Users\Ritu\AndroidStudioProjects\FinanceAdviser\app\build\intermediates\pre-dexed\debug\com.amulyakhare-com.amulyakhare.textdrawable-1.0.1_5d0f35d75ab4bd9ba4aeaefc513f404082bfe8ac.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "122614072801",
+    "firebase_url": "https://fir-finance-advisor.firebaseio.com",
+    "project_id": "firebase-finance-advisor",
+    "storage_bucket": "firebase-finance-advisor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122614072801:android:16e6ac6060593489",
+        "android_client_info": {
+          "package_name": "projects.ritu.financeadviser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122614072801-lh9l8hpets0k4kk7h34ej8l2gik6d7s4.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "122614072801-1rippg6l7lhdrbjd6sitlr55fk4ge727.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "projects.ritu.financeadviser",
+            "certificate_hash": "707e961121a245cc7bf7a05048bb78231c3582cc"
+          }
+        },
+        {
+          "client_id": "122614072801-isceo87s7ltsvjvjioc9cv1am3801omd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmku1P6e1j0q2BPd_ls2XEHKun4JAojcQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122614072801-lh9l8hpets0k4kk7h34ej8l2gik6d7s4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
